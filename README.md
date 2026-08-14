@@ -13,26 +13,14 @@
   <i>* Note: It is optional but highly recommended to use <b>PyCharm</b> as the development environment for this project. PyCharm provides excellent tools for managing virtual environments, debugging, and organizing code efficiently.</i>
 </p>
 
-# 24OSS-Group26  
-**Photo Filter Application with OpenCV (Mosaic & More)**
-
 ## Project Overview
-This repository is dedicated to the Group 26 term project for the **Open Source Software Course, 2024**, at **Gachon University**. Our project involves applying various filters, such as mosaic effects, to photos using OpenCV. Through this project, we aim to explore image processing techniques in an open-source context.
-
-
-## Team Members
-| Name    | GitHub Profile                                         | Email                                                |
-|---------|--------------------------------------------------------|------------------------------------------------------|
-| 송영빈   | [<img src="https://img.shields.io/badge/GitHub-songyb111--gachon-black?logo=github" alt="songyb111-gachon">](https://github.com/songyb111-gachon) | <img src="https://img.shields.io/badge/songyb111@gachon.ac.kr-blue" alt="songyb111@gachon.ac.kr"> |
-| 박준우   | [<img src="https://img.shields.io/badge/GitHub-cire21st-black?logo=github" alt="cire21st">](https://github.com/cire21st)               | <img src="https://img.shields.io/badge/junu321kr@gmail.com-blue" alt="junu321kr@gmail.com">  |
-| 조수연   | [<img src="https://img.shields.io/badge/GitHub-yeun23-black?logo=github" alt="yeun23">](https://github.com/yeun23)                   | <img src="https://img.shields.io/badge/suyeun1634@gachon.ac.kr-blue" alt="suyeun1634@gachon.ac.kr"> | 
-
+project involves applying various filters, such as mosaic effects, to photos using OpenCV. Through this project, we aim to explore image processing techniques in an open-source context.
 
 ## Project Structure
 The directory structure for this repository is as follows:
 
 <pre>
-24OSS-Group26/
+Photo-Filter-Application-with-OpenCV/
 ├── src/
 │   ├── filters/                  # Contains Python scripts for each filter
 │   │   ├── blur.py               # Blur filter
