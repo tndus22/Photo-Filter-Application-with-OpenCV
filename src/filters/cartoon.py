@@ -1,4 +1,3 @@
-# 딥러닝 기반으로 변경하는 게 좋을 듯.
 import cv2
 
 def apply_cartoon(image):
