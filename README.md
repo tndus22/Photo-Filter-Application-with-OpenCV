@@ -101,13 +101,13 @@ Photo-Filter-Application-with-OpenCV/
 1. **Clone the Repository**  
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/24OSS-Group26/24OSS-Group26.git
+git clone https://github.com/tndus22/Photo-Filter-Application-with-OpenCV.git
    ```
    
 2. **Navigate to the Project Directory**  
    Change to the project directory:
    ```bash
-   cd 24OSS-Group26
+   cd Photo-Filter-Application-with-OpenCV
    ```
 
 3. **Install Dependencies**  
