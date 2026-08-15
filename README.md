@@ -130,15 +130,4 @@ Photo-Filter-Application-with-OpenCV/
 ## Usage
 Run the `main.py` script in the `src` folder to select and apply various filters to images. Follow the instructions in the script for filter selection and intensity adjustment.
 
-## Screenshot Example
-Here are example images after applying the filter:
 
-<p align="center">
-  <img src="README_img/12.png" alt="Filter Example png 1">
-  <img src="README_img/13.png" alt="Filter Example png 2">
-  <img src="README_img/14.png" alt="Filter Example png 3">
-  <img src="README_img/gif/output_20241118_195110.gif" alt="Filter Example gif 1">
-  <img src="README_img/15.png" alt="Filter Example png 4">
-  <img src="README_img/18.png" alt="Filter Example png 5">
-  <img src="README_img/19.png" alt="Filter Example png 6">
-</p>
