@@ -39,10 +39,6 @@ Photo-Filter-Application-with-OpenCV/
 │   │   ├── sticker.py            # Sticker filter to add stickers to faces
 │   │   └── vignette.py           # Vignette effect filter
 │   └── main.py                   # Main script for filter selection and application
-├── gif/                          # Contains scripts and screenshots to create GIFs
-│   ├── create_gif.py             # Python script to create GIFs
-│   └── output.gif                # Generated GIF example
-├── test_img/                     # Directory containing sample images
 ├── requirements.txt              # List of dependencies (auto-generated)
 ├── generate_requirements.py      # Python script to generate requirements.txt
 ├── README.md                     # Project documentation
