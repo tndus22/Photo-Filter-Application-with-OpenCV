@@ -76,22 +76,25 @@ Photo-Filter-Application-with-OpenCV/
 
 ## Getting Started
 
-0. **Use PyCharm and Set Up a New Virtual Environment (Recommended)**  
-   - It is recommended to use **PyCharm** for better project management and debugging experience. Within PyCharm, create a **new virtual environment** to ensure that all dependencies are isolated for this project.  
-   - To set up a new virtual environment in PyCharm:  
-     1. Go to **File > Settings > Project: <Project Name> > Python Interpreter**.  
-     2. Click the **gear icon** and select **Add...**.  
-     3. Choose **New Virtual Environment**, specify the location, and ensure you select **Python 3.12** as the interpreter.  
-     4. Click **OK** to create the environment.  
+0. **Use PyCharm and Set Up a New Virtual Environment (Recommended)**
+
+   - It is recommended to use **PyCharm** for better project management and debugging experience. Within PyCharm, create a **new virtual environment** to ensure that all dependencies are isolated for this project.
+   - To set up a new virtual environment in PyCharm:
+     1. Go to **File > Settings > Project: <Project Name> > Python Interpreter**.
+     2. Click the **gear icon** and select **Add...**.
+     3. Choose **New Virtual Environment**, specify the location, and ensure you select **Python 3.12** as the interpreter.
+     4. Click **OK** to create the virtual environment.
 
    <p align="left">
      <i>*Note: The instructions below are based on this setup and assume you are working in a new virtual environment within PyCharm with Python 3.12.</i>
    </p>
 
-1. **Clone the Repository**  
+1. **Clone the Repository**
+
    Clone this repository to your local machine:
+
    ```bash
-git clone https://github.com/tndus22/Photo-Filter-Application-with-OpenCV.git
+   git clone https://github.com/tndus22/Photo-Filter-Application-with-OpenCV.git
    ```
    
 2. **Navigate to the Project Directory**  
