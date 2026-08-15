@@ -102,13 +102,13 @@ Photo-Filter-Application-with-OpenCV/
    ```bash
    cd Photo-Filter-Application-with-OpenCV
    ```
-
+   
 3. **Install Dependencies**  
    Install the required libraries (Python 3.12 and OpenCV):
    ```bash
    pip install -r requirements.txt
    ```
-
+   
 4. **Run the Application**  
    Navigate to the `src` folder and run `main.py` to start applying filters:
    ```bash
