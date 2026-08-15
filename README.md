@@ -14,7 +14,7 @@
 </p>
 
 ## Project Overview
-project involves applying various filters, such as mosaic effects, to photos using OpenCV. Through this project, we aim to explore image processing techniques in an open-source context.
+Project involves applying various filters, such as mosaic effects, to photos using OpenCV. Through this project, we aim to explore image processing techniques in an open-source context.
 
 ## Project Structure
 The directory structure for this repository is as follows:
