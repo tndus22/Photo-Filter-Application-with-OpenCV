@@ -14,7 +14,7 @@
 </p>
 
 ## Project Overview
-Project involves applying various filters, such as mosaic effects, to photos using OpenCV. Through this project, we aim to explore image processing techniques in an open-source context.
+This project involves applying various filters, such as mosaic effects, to photos using OpenCV. Through this project, we aim to explore image processing techniques in an open-source context.
 
 ## Project Structure
 The directory structure for this repository is as follows:
@@ -63,12 +63,6 @@ Photo-Filter-Application-with-OpenCV/
   - **`vignette.py`**: Adds a vignette effect (darkened edges around the image).
 
 - **`src/main.py`**: The main script that provides a GUI interface for applying the filters interactively. Users can open an image, apply filters, and save the results.
-
-- **`gif/`**: Includes scripts for creating GIFs and example outputs.
-  - **`create_gif.py`**: A Python script to create GIF animations showcasing filter application.
-  - **`output.gif`**: An example of a generated GIF.
-
-- **`test_img/`**: A directory containing sample images to demonstrate the effects of the filters.
 
 - **`generate_requirements.py`**: A script that generates a `requirements.txt` file based on the installed Python packages in the environment.
 
